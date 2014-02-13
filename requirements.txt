@@ -1,0 +1,11 @@
+Flask==0.10.1
+Flask-Testing==0.4
+Jinja2==2.7.2
+MarkupSafe==0.18
+Werkzeug==0.9.4
+gunicorn==18.0
+ipdb==0.8
+ipython==1.2.0
+itsdangerous==0.23
+twill==0.9
+wsgiref==0.1.2
